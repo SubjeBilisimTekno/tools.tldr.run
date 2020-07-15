@@ -1,0 +1,24 @@
+{
+    "name": "Kondukto",
+    "description": "Where AppSec meets DevOps",
+    "tags": [
+        "aws",
+        "incident-response",
+        "cloud-security",
+        "golang",
+        "security-automation"
+    ],
+    "operating_systems": [
+        "linux",
+        "windows",
+        "mac"
+    ],
+    "license": "",
+    "availability": [
+        "opensource",
+        "free",
+        "commercial"
+    ],
+    "github_url": "https://github.com/kondukto-io",
+    "url": "https://github.com/kondukto-io"
+}

@@ -2,8 +2,6 @@
     "name": "Kondukto",
     "description": "Where AppSec meets DevOps",
     "tags": [
-        "aws",
-        "incident-response",
         "cloud-security",
         "golang",
         "security-automation"
